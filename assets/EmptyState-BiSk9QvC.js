@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DyTGnfRu.js";var t=e();function n({title:e,description:n}){return(0,t.jsxs)(`div`,{className:`panel empty-state`,children:[(0,t.jsx)(`span`,{className:`eyebrow`,children:`Nothing here yet`}),(0,t.jsx)(`h2`,{children:e}),(0,t.jsx)(`p`,{children:n})]})}export{n as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DyTGnfRu.js";import{i as t}from"./formatters-D3tNl9AV.js";var n=e();function r({value:e,tone:r}){return(0,n.jsx)(`span`,{className:`status-badge status-badge--${(r??e).toLowerCase().replace(/\s+/g,`-`).replace(/_/g,`-`)}`,children:t(e)})}export{r as t};
